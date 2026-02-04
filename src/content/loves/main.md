@@ -9,15 +9,16 @@ openingPhrase: "Will you be my valentine?"
 
 # acceptedPhrase: string
 # Will be used for accepted phrase (header on main page, when yes is pressed)
-acceptedPhrase: "Yay, Love you too - Honey"
+acceptedPhrase: "Yay, Love you too - Naina
+"
 
 # rejectionText: array of string
 # Will be used for changing text when Right button (No) is pressed
 rejectionText:
   - "No"
-  - "You sure?"
-  - "Really sure?"
-  - "Positive??"
+  - "I love you na Baby?"
+  - "valentine par kiss chaiye?"
+  - "wrna dekh lena??"
   - "Pwetty pwease?"
   - "Think about it?"
   - "If you say no I'll be sad T_T"
