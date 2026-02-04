@@ -9,7 +9,7 @@ openingPhrase: "Will you be my valentine?"
 
 # acceptedPhrase: string
 # Will be used for accepted phrase (header on main page, when yes is pressed)
-acceptedPhrase: "Yay, Love you too - Naina"
+acceptedPhrase: "Yay, Love you too - Honey"
 
 # rejectionText: array of string
 # Will be used for changing text when Right button (No) is pressed
